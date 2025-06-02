@@ -1,0 +1,1 @@
+web: streamlit run youtube-music-app.py --server.port=$PORT --server.enableCORS=false
